@@ -1,8 +1,8 @@
 # CineUnlock
 
-Experimental firmware utility for the **Sony a7S III (ILCE-7SM3) on firmware 5.01**. The current preview is packaged for **macOS on Apple Silicon**.
+Experimental firmware utility for the **Sony a7S III (ILCE-7SM3) on firmware 5.01**. The current preview is packaged for **macOS 15 or later on Apple Silicon**.
 
-[Download CineUnlock Glass + False Color](https://github.com/AndrewCreator/CineUnlock/releases/tag/v0.4.0-preview.2-glass-falsecolor.1)
+[Download CineUnlock for Sony a7S III](https://github.com/AndrewCreator/CineUnlock/releases/tag/v0.4.0-preview.2-glass-falsecolor.1)
 
 The release contains the full desktop application, classic and minimal S-Log3 False Color LUTs, and third-party notices. Sony’s built-in Display LUT can use the `.cube` files independently.
 
